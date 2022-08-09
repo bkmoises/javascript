@@ -1,3 +1,3 @@
 # javascript
 
-Estudos de linguagem JavaScript do PDI da BRLink.
+Estudo de linguagem JavaScript do PDI da BRLink.
